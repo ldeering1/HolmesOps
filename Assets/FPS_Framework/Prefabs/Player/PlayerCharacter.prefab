@@ -4411,10 +4411,10 @@ MonoBehaviour:
   audioClipJump: {fileID: 8300000, guid: f6185b66ef9921645b8d4458f6700ce8, type: 3}
   audioClipLand: {fileID: 8300000, guid: 9c0e236d24c1ea74584593e3a61ba427, type: 3}
   playerCharacter: {fileID: 7496890156330050417}
-  speedWalking: 5
-  speedRunning: 12
-  jumpForce: 6
-  gravityMultiplier: 4
+  speedWalking: 4
+  speedRunning: 5.5
+  jumpForce: 4.5
+  gravityMultiplier: 1
   groundCheckDistance: 0.1
 --- !u!114 &8113304062755634438
 MonoBehaviour:
